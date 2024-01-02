@@ -5,7 +5,7 @@
     "ecmaVersion": 8,
     "sourceType": "module",
     "ecmaFeatures": {
-      "impliedStrict": true,
+      "impliedStrict": true,ed
       "experimentalObjectRestSpread": true
     },
     "allowImportExportEverywhere": true
